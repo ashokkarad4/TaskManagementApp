@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vayana\\TaskManagementSystemVayana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23EC956C-3DD5-4FDE-9EEB-22736124089B}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|d:\\vayana\\taskmanagementsystemvayana\\taskmanagement.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EC956C-3DD5-4FDE-9EEB-22736124089B}|TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj|solutionrelative:taskmanagement.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64638AB3-BBBF-4F65-AE17-13066261B1F4}|TaskManagement.Application\\TaskManagement.Application.csproj|d:\\vayana\\taskmanagementsystemvayana\\taskmanagement.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64638AB3-BBBF-4F65-AE17-13066261B1F4}|TaskManagement.Application\\TaskManagement.Application.csproj|solutionrelative:taskmanagement.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F1BD744-12D0-44EB-8E40-5A43C61B45CA}|TaskManagement.Domain\\TaskManagement.Domain.csproj|d:\\vayana\\taskmanagementsystemvayana\\taskmanagement.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F1BD744-12D0-44EB-8E40-5A43C61B45CA}|TaskManagement.Domain\\TaskManagement.Domain.csproj|solutionrelative:taskmanagement.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Domain\\Class1.cs",
+              "ToolTip": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Domain\\Class1.cs",
+              "RelativeToolTip": "TaskManagement.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:55:41.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Application\\Class1.cs",
+              "ToolTip": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Application\\Class1.cs",
+              "RelativeToolTip": "TaskManagement.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:56:19.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Infrastructure\\Class1.cs",
+              "ToolTip": "D:\\Vayana\\TaskManagementSystemVayana\\TaskManagement.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "TaskManagement.Infrastructure\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T15:56:41.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
