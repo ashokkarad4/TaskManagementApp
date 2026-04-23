@@ -19,7 +19,7 @@ namespace TaskManagement.Application.Services
             {
                 Title = dto.Title,
                 Description = dto.Description,
-                IsCompleted = false,
+                IsCompleted = dto.IsCompleted,
                 UserId = userId,
                 Created = DateTime.Now,
                 Updated = DateTime.Now
